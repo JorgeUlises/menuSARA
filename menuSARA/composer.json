@@ -1,0 +1,16 @@
+{
+    "name" : "JorgeUlises/menuSARA",
+    "description": "Permite crear una estructura de base de datos con el que se puede generar un menú de usuario para el framework SARA, de esta forma se dan permisos al usuario por página",
+    "type": "extension",
+    "keywords": ["menu", "perfil", "rol"],
+    "license": "(LGPL-2.1 or GPL-3.0+)",
+    "require" : {
+        "frameworksara/sara" : "~1.1"
+    },
+    "authors" : [
+        {
+            "name" : "Jorge Ulises Useche Cuellar",
+            "email" : "juusechec@correo.udistrital.edu.co"
+        }
+    ]
+}
